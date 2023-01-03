@@ -63,7 +63,7 @@ public class Main {
             niz[niz.length-i-1] = trenutni;
         }
     }
-
+    //NIZOVI
     //niz[3][3] x 2
     // [[1,2,3],
     // [1,2,3],
